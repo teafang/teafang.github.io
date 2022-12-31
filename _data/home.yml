@@ -18,6 +18,7 @@ project_entries:
     desc: 4th hire for Clover, a team designing a new social media app for teens to foster positive identity development. Research social media landscape, design app, conduct 5+ workshops and expert interviews. (Dec 2020-Present)
 
   - title: MIT Media Lab
+    image: "./assets/clover 1.png"
     url: "https://www.media.mit.edu/projects/clover/overview/"
     desc: Projects are shown in card layout
 
