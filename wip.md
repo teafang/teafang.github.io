@@ -1,6 +1,6 @@
 ---
 layout: post
-title: wip
+title: work in progress
 ---
 
-Coming soon! (I hope...)
+coming soon! (I hope...)
