@@ -6,15 +6,17 @@
         <span class="header">
           <img src="{{ item.image }}" alt="{{ item.title }}">
         </span>
-        
-        <hr>
-      
-        <p class="body">
+              
+        <h4 class="title">
           {{ item.title }}
 
           {% if item.highlight %}
             <mark>{{ item.highlight }}</mark>
           {% endif %}
+        </h4>
+        
+        <p class="date">
+          {{ item.date }}
         </p>
         
 <!--         <span class="header">
