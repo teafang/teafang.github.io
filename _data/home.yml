@@ -13,6 +13,7 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
+    image: assets/Screen Shot 2021-05-19 at 10.28.04 AM.png
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
