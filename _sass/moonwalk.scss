@@ -62,6 +62,7 @@ img {
   display: block;
   margin: 0 auto;
 }
+
 html {
     --bg: #FFF;
     --bg-secondary: #f3f4f6;
@@ -112,8 +113,6 @@ blockquote {
   border: 1px var(--border) solid;
 }
 a {
-  font-size: 1.5rem; 
-  font-weight:bold;
   color: var(--links);
 }
 *:target { background-color: var(--bg-secondary); }
@@ -195,6 +194,7 @@ p code, li code {
   padding: 2em;
   text-align: center;
   a {
+     font-size: 0.8em;
     color: var(--text);
     text-decoration: none;
     font-weight: bold;
