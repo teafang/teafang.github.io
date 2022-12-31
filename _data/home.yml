@@ -5,8 +5,11 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: kudos
+    url: about
+    
+  - title: contact
+    url: about
 
 project_entries:
   - title: Project 1
