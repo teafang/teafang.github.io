@@ -24,24 +24,17 @@ project_entries:
 
   - title: Impactive, Operations Intern
     image: "./assets/impactive.png"
-    url: overview-post
+    url: "https://www.impactive.io/"
     desc: You can control visibility from _config.yml file
 
   - title: Foothill Ventures, Intern
     image: "./assets/foothill.png"
-    url: overview-post
+    url: "https://www.foothill.ventures"
     desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Bank of America, Fintech Focus Fellow
-    image: "./assets/fintech.png"
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
 
   - title: National Student Poet of the West
     image: "./assets/nspp.jpg"
-    url: overview-post
+    url: "https://www.imls.gov/our-work/partnerships/national-student-poets-program"
     desc: It also has a scalable vertical list (in case you need it)
     
   - title: Allgirlithm, Co-Founder
@@ -50,32 +43,37 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
   - title: GET, Director
-    image: "./assets/GET.jpeg"
+    image: "./assets/GET.jpg"
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
     
   - title: Art's First, Student Producer
-    image: "./assets/arts first.jpeg"
-    url: overview-post
+    image: "./assets/artsfirst.jpeg"
+    url: "https://ofa.fas.harvard.edu/arts"
     desc: It also has a scalable vertical list (in case you need it)
     
   - title: Tech for Social Good, UX Designer for Humanitarian OpenStreetMap Team
     image: "./assets/t4sg.png"
-    url: overview-post
+    url: "https://socialgood.hcs.harvard.edu/"
     desc: It also has a scalable vertical list (in case you need it)
    
   - title: Franklin Fellowship, Leader
     image: "./assets/franklin.png"
-    url: overview-post
+    url: "http://www.franklinfellowship.com/home"
     desc: It also has a scalable vertical list (in case you need it)
     
+  - title: Bank of America, Fintech Focus Fellow
+    image: "./assets/fintech.png"
+    url: "https://fintechfocus.com"
+    desc: Moonwalk also has horizontal list (used in header and footer)
+    
   - title: Apple, Engineering Technology Camp Student
-    image: "./assets/apple.jpeg"
-    url: overview-post
+    image: "./assets/apple.jpg"
+    url: "https://www.theverge.com/2017/8/4/16092248/apple-engineering-technology-summer-camp-kids-product-design"
     desc: It also has a scalable vertical list (in case you need it)
     
   - title: MIT Tech Review, Essay Contest Winner
-    image: "./assets/tech review.jpeg"
+    image: "./assets/mtr.jpeg"
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
     
@@ -116,35 +114,15 @@ footer_entries:
     url: feed.xml
 
 misc_entries:
-  - title: this is an example vertical list
+  - title: John Harvard Scholar (top 5% of class) 
     url: false
 
-  - title: you can show or hide using a boolean flag in _config.yml
+  - title: U.S. Department of Education Presidential Scholar: top graduating senior in the country (2020) 
     url: false
 
-  - title: and you can add data in _data/home.yml
+  - title: Coca-Cola Scholar (One of 150 out of 200,000 applicants, $20,000 scholarship)
     url: false
-
-  - title: Blog posts
-    post_list: true
+    
+  - title: Poetry published in New York Times and Pulitzer Center and exhibited at UN Headquarters. Winner of International Hippocrates Young Poet's Prize and recognized by YoungArts and National Scholastic Art and Writing Awards.
     url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
 
