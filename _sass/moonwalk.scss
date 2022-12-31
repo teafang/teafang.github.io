@@ -15,7 +15,7 @@ pre, code {
   font-size: 0.9rem;
 }
 
-h1 { font-size: 2rem; font-weight:bold; }
+h1 { font-size: 1.5rem; font-weight:bold; color: var(--links);}
 
 h2, h3, h4, h5 { margin-top: 1.5em; }
 
@@ -29,15 +29,15 @@ hr.page-break {
   &:after { content: attr(data-content) '-----' }
 }
 
-p { margin: 1em 0; }
-
-li { margin: 0.4em 0; }
-
 .w {
   max-width: 1020px;
   margin: 0 auto;
   padding: 3em 1em;
 }
+
+p { margin: 1em 0; }
+
+li { margin: 0.4em 0; }
 
 table, th, td {
   width: 100%;
