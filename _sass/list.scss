@@ -7,12 +7,13 @@ ul.horizontal-list {
 
   li {
     display:inline;
+    font-size: 1.5rem;
     margin-right: 1em;
   }
 
   li a {
     text-decoration: none;
-    font-weight: normal
+    font-weight: bold;
   }
 
 }
