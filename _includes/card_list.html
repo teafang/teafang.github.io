@@ -3,8 +3,10 @@
 
     <li class="card">
       <a href="{{ item.url }}">
-        <img src="{{ item.image }}" alt="{{ item.title }}">
-
+        <span class="header">
+          <img src="{{ item.image }}" alt="{{ item.title }}">
+        </span>
+        
         <span class="header">
           {{ item.title }}
 
@@ -13,8 +15,6 @@
           {% endif %}
 
         </span>
-
-        <hr />
 
         {% if item.desc != false %}
         <p class="body">
