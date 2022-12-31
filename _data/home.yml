@@ -1,15 +1,15 @@
 navbar_entries:
-  - title: about
-    url: about
+  - title: home
+    url: /
 
   - title: blog
-    url: blog
+    url: wip
 
   - title: kudos
-    url: about
+    url: wip
     
   - title: contact
-    url: about
+    url: contact
 
 project_entries:
   - title: Inlet, Founder
@@ -25,21 +25,25 @@ project_entries:
     desc: 4th hire for Clover, a team designing a new social media app for teens to foster positive identity development. Research social media landscape, design app, conduct workshops and expert interviews. (Dec 2020-Present)
 
   - title: Impactive, Operations Intern
+    date: Jun-Aug 2022
     image: "./assets/impactive.png"
     url: "https://www.impactive.io/"
     desc: YC-backed startup founded in 2017 and used by 1,000+ campaigns, advocacy organizations, and unions. Data analysis, research, design & strategy.
 
   - title: Foothill Ventures, Intern
+    date: Aug 2020-Jan 2021
     image: "./assets/foothill.png"
     url: "https://www.foothill.ventures"
     desc: Created "Founder's Lessons" series, published interviews with 23 founders and 7 insight articles, reaching 10k+ views and 15k+ minutes read. Created intern matching program leading to 15+ hires
 
   - title: National Student Poet of the West
+    date: Aug 2019-Aug 2020
     image: "./assets/nspp.jpg"
     url: "https://www.imls.gov/our-work/partnerships/national-student-poets-program"
     desc: Highest honor in the nation for youth poets presenting original work, started by the President’s Committee on the Arts and Humanities. One of 5 chosen from 24,000 submissions by a jury including 2 former U.S. Poet Laureates. Serve as literary ambassador to 11 Western states
     
   - title: Allgirlithm, Co-Founder
+    date: Jul 2017-Aug 2021
     image: "./assets/allgirlithm.png"
     url: "allgirlithm.org"
     desc: Blog for women in tech from around the world with 70k+ views and club chapters in 75 locations across 9 countries. 
@@ -51,26 +55,31 @@ project_entries:
     desc:  Founded and directed free 7-week afterschool workshop series for girls to learn coding, impacting over 150 local students through three years of programming as well as 3 summer camps in partnership with the Girls Scouts and Junior Association of Utah.
     
   - title: Art's First, Student Producer
+    date: Dec 2021-Present
     image: "./assets/artsfirst.jpeg"
     url: "https://ofa.fas.harvard.edu/arts"
     desc: Organize one of the largest collegiate arts festivals in the country showcasing performers across diverse genres and spaces, 5k student attendees and marketing to 10k people
     
   - title: Tech for Social Good, UX Designer for Humanitarian OpenStreetMap Team
+    date: Jan-Apr 2021
     image: "./assets/t4sg.png"
     url: "https://socialgood.hcs.harvard.edu/"
     desc: Conduct in-depth user interviews and workshops through 2 design iterations to create updated design for product used by nearly 400k community mappers
    
   - title: Franklin Fellowship, Leader
+    date: Sep 2022-Present
     image: "./assets/franklin.png"
     url: "http://www.franklinfellowship.com/home"
     desc: Co-lead group of 12 for a weekly dinner focused on reflection and presence, invite guests including Grammy-Award-winning Parker Quartet, and organize fellowship-wide socials
     
   - title: Bank of America, Fintech Focus Fellow
+    date: Jul-Aug 2020
     image: "./assets/fintech.png"
     url: "https://fintechfocus.com"
     desc: Built full-stack web applications using Flask, MongoDB, Python, HTML, and CSS. Created Open Aisle to make political information more accessible. Project selected for final presentation for 100+ attendees
     
   - title: Apple, Engineering Technology Camp Student
+    date: Jul-Aug 2019
     image: "./assets/apple.jpg"
     url: "https://www.theverge.com/2017/8/4/16092248/apple-engineering-technology-summer-camp-kids-product-design"
     desc: 1 out of 25 students invited to Apple's global HQ for 4-week program. Worked closely with engineers to design and demo a product to tackle an engineering challenge. Worked primarily on CE and product design.
@@ -82,6 +91,7 @@ project_entries:
     desc: Published in world’s longest-running technology magazine (both online and print edition) as winner of youth essay contest out of 376 entries from 28 countries 
     
   - title: Harvard Public Service and Engaged Scholarship, SPARK Fellow
+    date: Jul-Aug 2021
     image: "./assets/spark.png"
     url: overview-post
     desc: Completed 100 hours of service, and created 150+ slides (20+ hours) of educational materials for the Logan Public Library
