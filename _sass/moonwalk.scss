@@ -42,6 +42,9 @@ li {
     text-decoration: bold;
     font-size: 1.5rem;
   }
+  img {
+     display: block;
+  }
 }
 
 table, th, td {
@@ -197,8 +200,7 @@ p code, li code {
 .credits {
   font-size: 0.8em;
   color: var(--text);
-  margin: 6em;
-  padding: 2em;
+  margin: 3em;
   text-align: center;
   a {
     color: var(--text);
