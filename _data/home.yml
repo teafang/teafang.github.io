@@ -45,9 +45,10 @@ project_entries:
     desc: Blog for women in tech from around the world with 70k+ views and club chapters in 75 locations across 9 countries. 
 
   - title: GET, Director
-    image: "./assets/GET.jpg"
+    image: "./assets/GET.JPG"
+    date: 2017-2020
     url: "https://medium.com/ai4allorg/girls-explore-tech-making-ai-accessible-in-utah-e37119afe4fb"
-    desc: It also has a scalable vertical list (in case you need it)
+    desc:  Founded and directed free 7-week afterschool workshop series for girls to learn coding, impacting over 150 local students through three years of programming as well as 3 summer camps in partnership with the Girls Scouts and Junior Association of Utah.
     
   - title: Art's First, Student Producer
     image: "./assets/artsfirst.jpeg"
@@ -62,7 +63,7 @@ project_entries:
   - title: Franklin Fellowship, Leader
     image: "./assets/franklin.png"
     url: "http://www.franklinfellowship.com/home"
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Co-lead group of 12 for a weekly dinner focused on reflection and presence, invite guests including Grammy-Award-winning Parker Quartet, and organize fellowship-wide socials
     
   - title: Bank of America, Fintech Focus Fellow
     image: "./assets/fintech.png"
