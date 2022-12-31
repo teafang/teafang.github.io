@@ -7,16 +7,24 @@
           <img src="{{ item.image }}" alt="{{ item.title }}">
         </span>
         
-        </hr>
+        <hr>
       
-        <span class="header">
+        <p class="body">
+          {{ item.title }}
+
+          {% if item.highlight %}
+            <mark>{{ item.highlight }}</mark>
+          {% endif %}
+        </p>
+        
+<!--         <span class="header">
           {{ item.title }}
 
           {% if item.highlight %}
             <mark>{{ item.highlight }}</mark>
           {% endif %}
 
-        </span>
+        </span> -->
 
         {% if item.desc != false %}
         <p class="body">
