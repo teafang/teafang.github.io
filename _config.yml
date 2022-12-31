@@ -2,10 +2,8 @@ title: Taylor Fang
 author: Taylor Fang
 url: https://teafang.github.io # root address of the site
 description: |
-  Hi there! I'm a student at Harvard originally from the small mountain-town of Logan, Utah. I'm always in pursuit of stories, human connection, warmth, and design that makes you feel something. (Also snacks and long hikes.)
+  Hi there! I'm a student at Harvard originally from a small mountain-town called Logan, Utah. I'm always in pursuit of stories, human connection, warmth, and design that makes people feel something. (Also snacks and long hikes!)
   
-  Recently, I've been thinking about patience, ambiguity, and paying attention. 
-
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -37,7 +35,7 @@ theme_config:
   # options for "home" page
   home:
     title_projects: Portfolio
-    title_misc_list: Details
+    title_misc_list: Honors
     title_blog: Blog
     title_old_projects: Old Projects
 
