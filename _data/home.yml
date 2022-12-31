@@ -12,10 +12,10 @@ navbar_entries:
     url: about
 
 project_entries:
-  - title: Project 1
+  - title: Inlet
     image: "./assets/inlet 1.png"
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    url: "https://inlet.space"
+    desc: Interactive and multimedia mood boards to share what makes you feel better. Supported by Harvard Innovation Labs, LookUp, and 10KE (Dec 2020-Present)
 
   - title: Project 2
     url: overview-post
