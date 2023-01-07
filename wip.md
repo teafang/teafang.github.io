@@ -1,6 +1,7 @@
 ---
 layout: post
-title: work in progress
+title: blog
 ---
 
-coming soon! (I hope...)
+coming soon! 
+old gap year entries here: [https://reading.supply/@taylor](url)
