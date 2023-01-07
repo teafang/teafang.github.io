@@ -6,7 +6,7 @@ navbar_entries:
     url: wip
 
   - title: kudos
-    url: wip
+    url: kudos
     
   - title: contact
     url: contact
