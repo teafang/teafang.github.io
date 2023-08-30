@@ -12,23 +12,29 @@ navbar_entries:
     url: contact
 
 project_entries:
+  - title: World Data Lab, Project Management Intern
+    date: Jun-Aug 2023
+    image: "./assets/wdl.png"
+    url: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjO5djTioOBAxWek4kEHXirBTwQFnoECBkQAQ&url=https%3A%2F%2Fworlddata.io%2F&usg=AOvVaw1K--T-bmeqo1ot-jADu7nB&opi=89978449"
+    desc: Point person for 4 public and private sector client projects with the Gates Foundation, ILO, Mastercard Foundation, and L’Oreal. Co-authored article for Brookings Institute.
+
   - title: Inlet, Founder
-    date: Jan 2021-Present
+    date: Jan 2021-July 2023
     image: "./assets/inlet.png"
-    url: "https://inlet.space"
-    desc: Interactive and multimedia mood boards to share what makes you feel better. Supported by Harvard Innovation Labs, LookUp, and 10KE (Dec 2020-Present)
+    url: "https://tfang.myportfolio.com/inlet"
+    desc: Interactive and multimedia mood boards to share what makes you feel better. Supported by Harvard Innovation Labs, LookUp, and 10KE.
 
   - title: MIT Media Lab, Design and Research 
-    date: Nov 2020-Present
+    date: Nov 2020-May 2023
     image: "./assets/medialab.jpeg"
     url: "https://www.media.mit.edu/projects/clover/overview/"
-    desc: 4th hire for Clover, a team designing a new social media app for teens to foster positive identity development. Research social media landscape, design app, conduct workshops and expert interviews. (Dec 2020-Present)
+    desc: 4th hire for Clover, a team designing a new social media app for teens to foster positive identity development. Research social media landscape, design app, conduct workshops and expert interviews 
 
   - title: Impactive, Operations Intern
     date: Jun-Aug 2022
     image: "./assets/impactive.png"
     url: "https://www.impactive.io/"
-    desc: YC-backed startup founded in 2017 and used by 1,000+ campaigns, advocacy organizations, and unions. Data analysis, research, design & strategy.
+    desc: YC-backed startup founded in 2017 and used by 1,000+ campaigns, advocacy organizations, and unions. Data analysis, research, design & strategy
 
   - title: Foothill Ventures, Intern
     date: Aug 2020-Jan 2021
@@ -46,13 +52,13 @@ project_entries:
     date: Jul 2017-Aug 2021
     image: "./assets/allgirlithm.png"
     url: "allgirlithm.org"
-    desc: Blog for women in tech from around the world with 70k+ views and club chapters in 75 locations across 9 countries. 
+    desc: Blog for women in tech from around the world with 70k+ views and club chapters in 75 locations across 9 countries
 
   - title: GET, Director
     image: "./assets/GET.JPG"
     date: 2017-2020
     url: "https://medium.com/ai4allorg/girls-explore-tech-making-ai-accessible-in-utah-e37119afe4fb"
-    desc:  Founded and directed free 7-week afterschool workshop series for girls to learn coding, impacting over 150 local students through three years of programming as well as 3 summer camps in partnership with the Girls Scouts and Junior Association of Utah.
+    desc:  Founded and directed free 7-week afterschool workshop series for girls to learn coding, impacting over 150 local students through three years of programming as well as 3 summer camps in partnership with the Girls Scouts and Junior Association of Utah
     
   - title: Art's First, Student Producer
     date: Dec 2021-Present
@@ -82,7 +88,7 @@ project_entries:
     date: Jul-Aug 2019
     image: "./assets/apple.jpg"
     url: "https://www.theverge.com/2017/8/4/16092248/apple-engineering-technology-summer-camp-kids-product-design"
-    desc: 1 out of 25 students invited to Apple's global HQ for 4-week program. Worked closely with engineers to design and demo a product to tackle an engineering challenge. Worked primarily on CE and product design.
+    desc: 1 out of 25 students invited to Apple's global HQ for 4-week program. Worked closely with engineers to design and demo a product to tackle an engineering challenge. Worked primarily on CE and product design
     
   - title: MIT Tech Review, Essay Contest Winner
     image: "./assets/mtr.jpeg"
@@ -128,6 +134,10 @@ footer_entries:
     url: feed.xml
 
 misc_entries:
+
+  - title: Academy of American Poets Prize (awarded by Harvard for best poem by an undergraduate) 
+    url: false
+    
   - title: John Harvard Scholar (top 5% of class) 
     url: false
 
